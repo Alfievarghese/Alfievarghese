@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Alfie%20Varghese&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Alfie%20Varghese&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=24&duration=3200&pause=1000&color=7BE0FF&center=true&vCenter=true&width=600&lines=Creative+Technologist;Design+%E2%9C%95+Engineering;Exploring+AI+Systems;Building+Interesting+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=24&duration=3200&pause=1000&color=7BE0FF&center=true&vCenter=true&width=650&lines=Creative+Technologist;Design+%E2%9C%95+Engineering;Exploring+AI+Systems;Building+Interesting+Things"/>
 
 <br>
 
@@ -14,22 +14,22 @@
 
 ---
 
-# About
+# About Me
 
-I’m **Alfie Varghese**, a technologist interested in the intersection of **engineering, design, and experimentation**.
+I’m **Alfie Varghese**, a technologist exploring the intersection of **engineering, design, and experimentation**.
 
-Currently exploring:
+Currently interested in:
 
-• AI systems
-• creative technology
-• design-driven software
-• automation & experimentation
+• Artificial Intelligence
+• Creative technology
+• Design-driven software
+• Automation systems
 
-Based in **Kerala, India**.
+📍 Kerala, India
 
 ---
 
-# Skills
+# Tech Stack
 
 <p align="center">
 
@@ -45,7 +45,7 @@ Based in **Kerala, India**.
 
 ---
 
-# GitHub Analytics
+# GitHub Stats
 
 <p align="center">
 
@@ -67,7 +67,7 @@ Based in **Kerala, India**.
 
 ---
 
-# Contribution Graph
+# Contribution Overview
 
 <p align="center">
 
@@ -87,7 +87,7 @@ Based in **Kerala, India**.
 
 ---
 
-# Connect
+# Connect With Me
 
 <p align="center">
 
