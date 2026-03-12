@@ -4,7 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=800&lines=Creative+Technologist;Exploring+AI+%2B+Design;Experimental+Software+Eng" />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Total%20Contributions-480%2B-5EEAD4?style=flat-square&logo=github&logoColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/Contributions-480%2B-5EEAD4?style=flat-square&logo=github&logoColor=1a1a1a" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Current%20Streak-5%20Days-orange?style=flat-square&logo=github&logoColor=fff" />
+    &nbsp;
     <img src="https://komarev.com/ghpvc/?username=Alfievarghese&label=Profile%20Views&color=5EEAD4&style=flat-square" />
   </p>
 </div>
@@ -22,8 +25,13 @@
 
 <div align="center">
   <h3>📊 Contribution Dashboard</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Alfievarghese&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=5EEAD4&icon_color=5EEAD4&text_color=fff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfievarghese&theme=transparent&hide_border=true&stroke=5EEAD4&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=fff&dates=fff" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alfievarghese&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alfievarghese&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alfievarghese&theme=github_dark" width="32%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alfievarghese&theme=github_dark" width="96%" />
 </div>
 
 <br/>
