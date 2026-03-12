@@ -14,11 +14,11 @@
 
 ---
 
-# About Me
+# About
 
-I’m **Alfie Varghese**, a technologist exploring the intersection of **engineering, design, and experimentation**.
+I'm **Alfie Varghese**, a BTech student exploring the intersection of **technology, design, and experimentation**.
 
-Currently interested in:
+Interested in:
 
 • Artificial Intelligence
 • Creative technology
