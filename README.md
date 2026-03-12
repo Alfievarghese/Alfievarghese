@@ -2,84 +2,107 @@
 
 # 👋 Hi, I'm Alfie Varghese
 
-### 🚀 Tech Enthusiast • 🎨 Designer • 📸 Photographer
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=500&lines=Tech+Explorer;Creative+Designer;AI+Enthusiast;Building+Cool+Things+With+Code" />
 
-Building ideas where **creativity meets technology**
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Alfievarghese&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 🚀 About Me
 
-- 🎓 BTech Student  
-- 🤖 Exploring AI, automation, and creative tech  
-- 🎨 Graphic designer (posters, DPs, branding)  
-- 🎬 Creating AI edits & short video content  
-- 🧩 Love experimenting with new ideas and tools  
-- 📍 Kerala, India  
+```yaml
+Name: Alfie Varghese
+Location: Kerala, India
+Education: BTech Student
+Fields: Technology, Design, Creative Media
+Interests:
+  - AI & automation
+  - Graphic design
+  - Creative tech experiments
+  - Photography & editing
+```
+
+🧠 I enjoy **turning ideas into creative tech experiences**  
+🎨 Passionate about **design + technology fusion**  
+⚡ Always experimenting with **new tools and ideas**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
 <a href="https://linkedin.com/in/alfie-varghese">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="https://instagram.com/alfie.00.7">
-<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 
 <a href="mailto:alfievarghese22@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="40"/>
-<img src="https://skillicons.dev/icons?i=c" height="40"/>
-<img src="https://skillicons.dev/icons?i=html" height="40"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="40"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=github" />
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alfievarghese&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alfievarghese&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfievarghese&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfievarghese&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## ⚡ Fun Zone
+# 🔥 Contribution Streak
 
-```text
-Designer by passion 🎨
-Engineer by education ⚙️
-Explorer by mindset 🚀
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfievarghese&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# ⚡ Fun Zone
+
+```
+Designer 🎨
+Coder 💻
+Creator 🚀
+Explorer 🌍
 ```
 
 ---
 
 <div align="center">
 
-💡 *“Creativity is intelligence having fun.”* – Albert Einstein
+### 💡 Creativity is intelligence having fun
 
 </div>
