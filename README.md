@@ -1,10 +1,24 @@
+<!-- ========================================= -->
+<!--           HERO BANNER SECTION            -->
+<!-- ========================================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm Alfie Varghese
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:6C63FF&height=220&section=header&text=Alfie%20Varghese&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=500&lines=Tech+Explorer;Creative+Designer;AI+Enthusiast;Building+Cool+Things+With+Code" />
+</div>
 
-<br>
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=AI+Explorer;Creative+Designer;Tech+Innovator;Building+Ideas+With+Code" />
+
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Alfievarghese&label=Profile%20Views&color=0e75b6&style=flat" />
 
@@ -12,23 +26,25 @@
 
 ---
 
-# 🚀 About Me
+# 🧠 About Me
 
 ```yaml
 Name: Alfie Varghese
 Location: Kerala, India
 Education: BTech Student
-Fields: Technology, Design, Creative Media
+Focus: Technology + Creativity
+
 Interests:
-  - AI & automation
-  - Graphic design
-  - Creative tech experiments
-  - Photography & editing
+  - Artificial Intelligence
+  - Creative Tech Projects
+  - Graphic Design
+  - Photography
+  - Video Editing
 ```
 
-🧠 I enjoy **turning ideas into creative tech experiences**  
-🎨 Passionate about **design + technology fusion**  
-⚡ Always experimenting with **new tools and ideas**
+✨ I enjoy combining **technology + creativity**  
+🚀 Always experimenting with **new tools & ideas**  
+🎨 Passionate about **design, media, and innovation**
 
 ---
 
@@ -52,7 +68,7 @@ Interests:
 
 ---
 
-# 🛠️ Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
 
@@ -90,11 +106,31 @@ Interests:
 
 ---
 
-# ⚡ Fun Zone
+# 📊 3D Contribution Graph
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alfievarghese&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Alfievarghese/Alfievarghese/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+# 🎨 Creative Identity
 
 ```
 Designer 🎨
-Coder 💻
+Engineer 💻
 Creator 🚀
 Explorer 🌍
 ```
@@ -103,6 +139,14 @@ Explorer 🌍
 
 <div align="center">
 
-### 💡 Creativity is intelligence having fun
+### 💡 "Creativity is intelligence having fun." — Albert Einstein
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:6C63FF&height=120&section=footer"/>
 
 </div>
