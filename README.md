@@ -1,53 +1,58 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=ALFIE%20VARGHESE&fontSize=60&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2d3436&height=280&section=header&text=ALFIE%20VARGHESE&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 
-  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Creative+Technologist;Exploring+AI+%2B+Design;Experimental+Engineering" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7BE0FF&center=true&vCenter=true&width=500&lines=Creative+Technologist;Exploring+AI+%2B+Design;Building+Experimental+Software" />
+  <p align="center">
+    <img src="https://img.shields.io/badge/Total%20Commits-Click%20Stats-5EEAD4?style=flat-square&logo=github&logoColor=1a1a1a" />
+    <img src="https://komarev.com/ghpvc/?username=Alfievarghese&label=Profile%20Views&color=5EEAD4&style=flat-square" />
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>✨ The Mission</h3>
+  <p>I build <i>creative systems</i> at the intersection of AI and human experience. Based in Kerala, India, I'm focused on developing software that feels less like a tool and more like an extension of thought.</p>
 </div>
 
 <br/>
 
 ---
 
-### 🚀 The Mission
-I’m a **Creative Technologist** exploring the synergy between AI systems and human-centric design. I build tools that act as extensions of the mind.
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🛠️ Core Stack</h3>
+      <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,vscode,github,linux,figma,postman" />
+    </td>
+    <td align="center" width="50%">
+      <h3>📊 GitHub Soul</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Alfievarghese&show_icons=true&theme=transparent&hide_border=true&title_color=5EEAD4&icon_color=5EEAD4&text_color=fff" width="100%" />
+    </td>
+  </tr>
+</table>
 
-- 📍 Kerala, India
-- 🔭 Engineering experimental interaction models
-- 🎨 Design-driven software architect
+<br/>
 
----
-
-### 🛠️ Core Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html,vscode,github,linux,figma,postman" />
-</p>
-
----
-
-### 📊 Performance Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alfievarghese&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfievarghese&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alfievarghese&theme=tokyonight" width="96%" />
-</p>
-
----
-
-### 🐍 The Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Alfievarghese/Alfievarghese/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-  <p align="center"><i>Note: Snake generates every 12 hours. If it's missing, trigger it manually in Actions.</i></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfievarghese&theme=transparent&hide_border=true&stroke=5EEAD4&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=fff&dates=fff" width="80%" />
 </div>
 
+<br/>
+
 ---
 
-### 🤝 Let's Connect
-<p align="left">
+<div align="center">
+  <h3>🐍 Contribution Mosaic</h3>
+  <img src="https://raw.githubusercontent.com/Alfievarghese/Alfievarghese/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <p><small><i>Action required: Trigger "Generate Snake" in the Actions tab to activate this grid.</i></small></p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🤝 Let's Connect</h3>
   <a href="https://linkedin.com/in/alfie-varghese">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
@@ -59,10 +64,10 @@ I’m a **Creative Technologist** exploring the synergy between AI systems and h
   <a href="mailto:alfievarghese22@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
-</p>
+</div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2d3436&height=100&section=footer" />
 </div>
