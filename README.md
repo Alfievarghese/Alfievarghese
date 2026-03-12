@@ -22,7 +22,7 @@
 
 <div align="center">
   <h3>📊 Contribution Dashboard</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Alfievarghese&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=5EEAD4&icon_color=5EEAD4&text_color=fff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alfievarghese&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=5EEAD4&icon_color=5EEAD4&text_color=fff" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfievarghese&theme=transparent&hide_border=true&stroke=5EEAD4&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=fff&dates=fff" width="48%" />
 </div>
 
