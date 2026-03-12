@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2d3436&height=280&section=header&text=ALFIE%20VARGHESE&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2d3436&height=280&section=header&text=ALFIE%20VARGHESE&fontSize=70&fontColor=fff&animation=fadeIn" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Creative+Technologist;Exploring+AI+%2B+Design;Experimental+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=800&lines=Creative+Technologist;Exploring+AI+%2B+Design;Experimental+Software+Eng" />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Total%20Commits-Click%20Stats-5EEAD4?style=flat-square&logo=github&logoColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/Total%20Contributions-480%2B-5EEAD4?style=flat-square&logo=github&logoColor=1a1a1a" />
     <img src="https://komarev.com/ghpvc/?username=Alfievarghese&label=Profile%20Views&color=5EEAD4&style=flat-square" />
   </p>
 </div>
@@ -20,23 +20,17 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🛠️ Core Stack</h3>
-      <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,vscode,github,linux,figma,postman" />
-    </td>
-    <td align="center" width="50%">
-      <h3>📊 GitHub Soul</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Alfievarghese&show_icons=true&theme=transparent&hide_border=true&title_color=5EEAD4&icon_color=5EEAD4&text_color=fff" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>📊 Contribution Dashboard</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alfievarghese&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=5EEAD4&icon_color=5EEAD4&text_color=fff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfievarghese&theme=transparent&hide_border=true&stroke=5EEAD4&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=fff&dates=fff" width="48%" />
+</div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfievarghese&theme=transparent&hide_border=true&stroke=5EEAD4&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=fff&dates=fff" width="80%" />
+  <h3>🛠️ Core Stack</h3>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,vscode,github,linux,figma,postman" />
 </div>
 
 <br/>
@@ -46,7 +40,7 @@
 <div align="center">
   <h3>🐍 Contribution Mosaic</h3>
   <img src="https://raw.githubusercontent.com/Alfievarghese/Alfievarghese/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-  <p><small><i>Action required: Trigger "Generate Snake" in the Actions tab to activate this grid.</i></small></p>
+  <p><small><i>Note: Snake is generated every 12 hours. Trigger "Generate Snake" in Actions to update now.</i></small></p>
 </div>
 
 <br/>
