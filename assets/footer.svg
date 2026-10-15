@@ -1,29 +1,26 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 60" width="100%" height="100%">
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 54" width="100%" height="100%">
   <defs>
-    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#090d16"/>
-      <stop offset="50%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#090d16"/>
+    <linearGradient id="footerObsidian" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#040404"/>
+      <stop offset="50%" stop-color="#0A0A0A"/>
+      <stop offset="100%" stop-color="#040404"/>
     </linearGradient>
   </defs>
   <style>
-    .mono { font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace; }
+    .mono { font-family: ui-monospace, 'DM Mono', 'Cascadia Code', monospace; }
   </style>
-  <rect width="920" height="60" rx="10" fill="url(#footerBg)" stroke="#1e293b" stroke-width="1.2"/>
+  <rect width="920" height="54" fill="url(#footerObsidian)" stroke="#1C1C1C" stroke-width="1.2"/>
   
-  <!-- Left accent marker -->
-  <circle cx="36" cy="30" r="3" fill="#10b981"/>
-  <text x="48" y="34" class="mono" font-size="11" fill="#64748b" letter-spacing="0.08em">
-    STATUS // <tspan fill="#34d399">ALWAYS EXPERIMENTING</tspan>
+  <circle cx="36" cy="27" r="3" fill="#FFB347"/>
+  <text x="48" y="31" class="mono" font-size="11" fill="#78716C" letter-spacing="0.08em">
+    STATUS // <tspan fill="#FFB347">REDEFINING WHAT AI CAN FEEL</tspan>
   </text>
 
-  <!-- Center Coordinate -->
-  <text x="460" y="34" text-anchor="middle" class="mono" font-size="11" fill="#475569" letter-spacing="0.12em">
-    // CONTINUOUS_INTEGRATION_2026 //
+  <text x="460" y="31" text-anchor="middle" class="mono" font-size="11" fill="#44403C" letter-spacing="0.12em">
+    // CONTINUOUS_CURIOSITY //
   </text>
 
-  <!-- Right Signal -->
-  <text x="884" y="34" text-anchor="end" class="mono" font-size="11" fill="#64748b" letter-spacing="0.08em">
-    SYS.END <tspan fill="#38bdf8">■</tspan>
+  <text x="884" y="31" text-anchor="end" class="mono" font-size="11" fill="#78716C" letter-spacing="0.08em">
+    PALAI, KERALA <tspan fill="#FB582D">■</tspan>
   </text>
 </svg>
