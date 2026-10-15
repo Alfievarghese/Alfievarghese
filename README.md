@@ -45,83 +45,93 @@ affiliations:
 
 ### `/ 02 FEATURED WORK`
 
-<table>
+<table bgcolor="#080808" width="100%">
   <thead>
-    <tr>
-      <th width="28%">System</th>
-      <th width="22%">Domain &amp; Stack</th>
-      <th width="50%">Architecture Highlights</th>
+    <tr bgcolor="#121212">
+      <th width="28%" bgcolor="#121212"><font color="#FFB347">System</font></th>
+      <th width="22%" bgcolor="#121212"><font color="#FFB347">Domain &amp; Stack</font></th>
+      <th width="50%" bgcolor="#121212"><font color="#FFB347">Architecture Highlights</font></th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>
+    <tr bgcolor="#0D0D0D">
+      <td bgcolor="#0D0D0D">
         <a href="https://github.com/Alfievarghese">
-          <b>🥄 SteadySpoon</b>
+          <b><font color="#FFB347">🥄 SteadySpoon</font></b>
         </a>
       </td>
-      <td>
+      <td bgcolor="#0D0D0D">
         <code>Arduino</code> <code>MPU-6050</code><br/>
         <code>Servo PID</code> <code>C++</code>
       </td>
-      <td>
-        Actively stabilized utensil for users with essential tremors or Parkinson's. Implements real-time IMU tremor compensation via servo PID feedback running at <b>&lt;100ms latency</b>. <i>Top 7 Finish at Tech for Life Buildathon.</i>
+      <td bgcolor="#0D0D0D">
+        <font color="#D1D5DB">
+          Actively stabilized utensil for users with essential tremors or Parkinson's. Implements real-time IMU tremor compensation via servo PID feedback running at <b>&lt;100ms latency</b>. <i>Top 7 Finish at Tech for Life Buildathon.</i>
+        </font>
       </td>
     </tr>
-    <tr>
-      <td>
+    <tr bgcolor="#0A0A0A">
+      <td bgcolor="#0A0A0A">
         <a href="https://koppile-sannam.vercel.app/" target="_blank">
-          <b>🔥 Koppile Sannam</b>
+          <b><font color="#FB582D">🔥 Koppile Sannam</font></b>
         </a>
       </td>
-      <td>
+      <td bgcolor="#0A0A0A">
         <code>React</code> <code>Node.js</code><br/>
         <code>Gemini AI</code> <code>Vercel</code>
       </td>
-      <td>
-        Full-stack AI web app that roasts developer GitHub profiles using Gemini AI with a strict "Professor Pisharody" South Indian humor persona. Engineered anti-hallucination prompt guardrails; achieved <b>55,000+ organic impressions</b> on LinkedIn.
+      <td bgcolor="#0A0A0A">
+        <font color="#D1D5DB">
+          Full-stack AI web app that roasts developer GitHub profiles using Gemini AI with a strict "Professor Pisharody" South Indian humor persona. Engineered anti-hallucination prompt guardrails; achieved <b>55,000+ organic impressions</b> on LinkedIn.
+        </font>
       </td>
     </tr>
-    <tr>
-      <td>
+    <tr bgcolor="#0D0D0D">
+      <td bgcolor="#0D0D0D">
         <a href="https://github.com/stippusahib/Jarvis" target="_blank">
-          <b>🎙️ JARVIS (Ambient AI)</b>
+          <b><font color="#38BDF8">🎙️ JARVIS (Ambient AI)</font></b>
         </a>
       </td>
-      <td>
+      <td bgcolor="#0D0D0D">
         <code>Faster-Whisper</code> <code>Ollama</code><br/>
         <code>Mistral 7B</code> <code>LLaVA</code>
       </td>
-      <td>
-        Fully offline ambient AI desktop assistant with a glassmorphism Tkinter HUD, zero cloud and zero external telemetry. Built solo in 24 hours at TechAshy Hackathon using local Whisper speech-to-text, Mistral 7B, and LLaVA screen vision.
+      <td bgcolor="#0D0D0D">
+        <font color="#D1D5DB">
+          Fully offline ambient AI desktop assistant with a glassmorphism Tkinter HUD, zero cloud and zero external telemetry. Built solo in 24 hours at TechAshy Hackathon using local Whisper speech-to-text, Mistral 7B, and LLaVA screen vision.
+        </font>
       </td>
     </tr>
-    <tr>
-      <td>
+    <tr bgcolor="#0A0A0A">
+      <td bgcolor="#0A0A0A">
         <a href="https://github.com/Alfievarghese">
-          <b>🚁 Acoustic Drone Radar</b>
+          <b><font color="#10B981">🚁 Acoustic Drone Radar</font></b>
         </a>
       </td>
-      <td>
+      <td bgcolor="#0A0A0A">
         <code>ESP32</code> <code>INMP441</code><br/>
         <code>512-pt FFT</code> <code>C++</code>
       </td>
-      <td>
-        Acoustic drone detector running real-time 512-point FFT on 16kHz I2S audio via ESP32. Detects rotor frequency signatures in the 100–600Hz band up to 30m. Submitted to <b>CEDCO BSF Bengaluru</b>.
+      <td bgcolor="#0A0A0A">
+        <font color="#D1D5DB">
+          Acoustic drone detector running real-time 512-point FFT on 16kHz I2S audio via ESP32. Detects rotor frequency signatures in the 100–600Hz band up to 30m. Submitted to <b>CEDCO BSF Bengaluru</b>.
+        </font>
       </td>
     </tr>
-    <tr>
-      <td>
+    <tr bgcolor="#0D0D0D">
+      <td bgcolor="#0D0D0D">
         <a href="https://github.com/Alfievarghese">
-          <b>🏛️ CEM (Campus Platform)</b>
+          <b><font color="#F0EDE8">🏛️ CEM (Campus Platform)</font></b>
         </a>
       </td>
-      <td>
+      <td bgcolor="#0D0D0D">
         <code>Next.js</code> <code>Prisma</code><br/>
         <code>Supabase</code> <code>Tailwind</code>
       </td>
-      <td>
-        Full-stack campus event management platform deployed for active institutional use at SJCET Palai. Features JWT auth, automated email notification pipelines via Brevo, and role-based dashboards.
+      <td bgcolor="#0D0D0D">
+        <font color="#D1D5DB">
+          Full-stack campus event management platform deployed for active institutional use at SJCET Palai. Features JWT auth, automated email notification pipelines via Brevo, and role-based dashboards.
+        </font>
       </td>
     </tr>
   </tbody>
@@ -131,24 +141,24 @@ affiliations:
 
 ### `/ 03 OPEN SOURCE & RESEARCH`
 
-<table width="100%">
+<table bgcolor="#080808" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🐧 Upstream Linux Kernel Contributor</h4>
-      <p><b>Staging Subsystem • Greybus Vibrator &amp; UART</b></p>
+    <td width="50%" valign="top" bgcolor="#0D0D0D">
+      <h4><font color="#FFB347">🐧 Upstream Linux Kernel Contributor</font></h4>
+      <p><b><font color="#FB582D">Staging Subsystem • Greybus Vibrator &amp; UART</font></b></p>
       <ul>
-        <li>Authored &amp; upstreamed Greybus vibrator driver patch accepted into Greg Kroah-Hartman's <code>staging-testing</code> branch, slated for <b>Linux 7.2</b>.</li>
-        <li>Authored follow-up Greybus UART driver patch, reviewed and signed off by kernel maintainers.</li>
-        <li>Followed complete upstream workflow: <code>git send-email</code>, LKML &amp; <code>greybus-dev</code> iterative review.</li>
+        <li><font color="#D1D5DB">Authored &amp; upstreamed Greybus vibrator driver patch accepted into Greg Kroah-Hartman's <code>staging-testing</code> branch, slated for <b>Linux 7.2</b>.</font></li>
+        <li><font color="#D1D5DB">Authored follow-up Greybus UART driver patch, reviewed and signed off by kernel maintainers.</font></li>
+        <li><font color="#D1D5DB">Followed complete upstream workflow: <code>git send-email</code>, LKML &amp; <code>greybus-dev</code> iterative review.</font></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h4>📄 IEEE Xplore Published Researcher</h4>
-      <p><b>Automated Habituation in <i>Mimosa pudica</i> (2025)</b></p>
+    <td width="50%" valign="top" bgcolor="#0D0D0D">
+      <h4><font color="#FFB347">📄 IEEE Xplore Published Researcher</font></h4>
+      <p><b><font color="#FB582D">Automated Habituation in <i>Mimosa pudica</i> (2025)</font></b></p>
       <ul>
-        <li>Lead author of published research on a novel low-cost robotic platform to study plant neurobiology, eliminating manual testing bias.</li>
-        <li>Engineered closed-loop robotics with Raspberry Pi &amp; OpenCV for stimulus delivery.</li>
-        <li>AHA vision algorithm achieved <b>96.5% accuracy</b> in validation. <a href="https://ieeexplore.ieee.org/document/11394635" target="_blank">[Paper]</a></li>
+        <li><font color="#D1D5DB">Lead author of published research on a novel low-cost robotic platform to study plant neurobiology, eliminating manual testing bias.</font></li>
+        <li><font color="#D1D5DB">Engineered closed-loop robotics with Raspberry Pi &amp; OpenCV for stimulus delivery.</font></li>
+        <li><font color="#D1D5DB">AHA vision algorithm achieved <b>96.5% accuracy</b> in validation. <a href="https://ieeexplore.ieee.org/document/11394635" target="_blank">[Paper]</a></font></li>
       </ul>
     </td>
   </tr>
@@ -182,8 +192,12 @@ affiliations:
 ### `/ 05 ENGINEERING TELEMETRY`
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfievarghese&theme=dark&background=040404&border=1C1C1C&stroke=1C1C1C&ring=FFB347&fire=FB582D&currStreakNum=F0EDE8&currStreakLabel=FFB347&sideNums=F0EDE8&sideLabels=888078&dates=57534E" width="48%" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alfievarghese&show_icons=true&hide_rank=true&theme=tokyonight&bg_color=040404&title_color=FFB347&text_color=888078&icon_color=FB582D&border_color=1C1C1C&border_radius=0" width="48%" alt="GitHub Stats" />
   &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfievarghese&theme=dark&background=040404&border=1C1C1C&stroke=1C1C1C&ring=FFB347&fire=FB582D&currStreakNum=F0EDE8&currStreakLabel=FFB347&sideNums=F0EDE8&sideLabels=888078&dates=57534E" width="48%" alt="Streak Stats" />
+</div>
+
+<div align="center" style="margin-top: 14px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfievarghese&layout=compact&theme=tokyonight&bg_color=040404&title_color=FFB347&text_color=888078&border_color=1C1C1C&border_radius=0" width="48%" alt="Top Languages" />
 </div>
 
