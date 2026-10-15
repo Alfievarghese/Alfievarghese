@@ -1,0 +1,29 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 60" width="100%" height="100%">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#090d16"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#090d16"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .mono { font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace; }
+  </style>
+  <rect width="920" height="60" rx="10" fill="url(#footerBg)" stroke="#1e293b" stroke-width="1.2"/>
+  
+  <!-- Left accent marker -->
+  <circle cx="36" cy="30" r="3" fill="#10b981"/>
+  <text x="48" y="34" class="mono" font-size="11" fill="#64748b" letter-spacing="0.08em">
+    STATUS // <tspan fill="#34d399">ALWAYS EXPERIMENTING</tspan>
+  </text>
+
+  <!-- Center Coordinate -->
+  <text x="460" y="34" text-anchor="middle" class="mono" font-size="11" fill="#475569" letter-spacing="0.12em">
+    // CONTINUOUS_INTEGRATION_2026 //
+  </text>
+
+  <!-- Right Signal -->
+  <text x="884" y="34" text-anchor="end" class="mono" font-size="11" fill="#64748b" letter-spacing="0.08em">
+    SYS.END <tspan fill="#38bdf8">■</tspan>
+  </text>
+</svg>
