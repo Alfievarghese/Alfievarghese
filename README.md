@@ -1,175 +1,163 @@
 ﻿<div align="center">
-  <img src="https://raw.githubusercontent.com/Alfievarghese/Alfievarghese/main/assets/hero.svg" alt="Alfie Varghese - Systems & AI Architect" width="100%" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,15:161b22,40:0f172a,70:0284c7,100:10b981&height=260&section=header&text=ALFIE%20VARGHESE&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" />
 
-<p align="center">
   <a href="https://github.com/Alfievarghese">
-    <img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDER-10b981?style=flat-square&logo=git&logoColor=fff&labelColor=090d16" alt="Status" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&height=45&lines=Upstream+Linux+Kernel+Contributor+(Greybus+Subsystem);IEEE+Published+Researcher+(Plant+Neurobiology+%2B+Robotics);AI+%2B+Hardware+Hacker+(ESP32+FFT%2C+YOLOv8%2C+Local+LLMs);Google+Student+Ambassador+(Gemini)+%E2%80%A2+Vice+Chair+IEEE+RAS;Creator+of+Koppile+Sannam+(55K%2B+Organic+Impressions)" alt="Typing SVG" />
   </a>
-  &nbsp;
-  <a href="https://github.com/Alfievarghese">
-    <img src="https://img.shields.io/badge/LOCATION-KERALA%2C%20INDIA%20[UTC%20%2B5%3A30]-38bdf8?style=flat-square&logo=google-maps&logoColor=fff&labelColor=090d16" alt="Location" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Alfievarghese&label=TELEMETRY%20VIEWS&color=10b981&style=flat-square&labelColor=090d16" alt="Views" />
-</p>
 
----
-
-### `// 01. MANIFESTO & PROFILE`
-
-> Software is most compelling when it leaves the screen and operates on real-world entropy.  
-> Based in Kerala, India, I design systems at the intersection of **machine intelligence, sensory hardware, and distributed agent architectures**—from wearable biometric telemetry to edge computer vision models and full-stack automation engines.
-
-```yaml
-identity: Alfie Varghese
-role: Creative Technologist & Systems Architect
-coordinates: 9.98° N, 76.30° E // Kerala, IN
-specialization:
-  - Computer Vision & Edge Model Deployment (YOLOv8, PyTorch)
-  - Biometric Sensor Hardware & Embedded Telemetry (C/C++, ESP32)
-  - Multi-Agent Orchestration & Context Partitioning
-status: Open for research collaborations and high-impact engineering
-```
-
----
-
-### `// 02. FEATURED ARCHITECTURE & EXPERIMENTS`
-
-<table>
-  <thead>
-    <tr>
-      <th width="30%">System</th>
-      <th width="20%">Domain</th>
-      <th width="50%">Architecture &amp; Core Highlights</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github.com/Alfievarghese/panicsense-myosa">
-          <b>▸ PanicSense</b>
-        </a>
-      </td>
-      <td><code>Biometric Hardware</code></td>
-      <td>
-        Wrist-worn wearable platform engineered for autonomous panic attack detection and physiological de-escalation via real-time sensory telemetry. Built for <b>IEEE MYOSA 6.0</b> (Team Mandi Masala).
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Alfievarghese/Therattayude_kaal">
-          <b>▸ Therattayude Kaal</b>
-        </a>
-      </td>
-      <td><code>Computer Vision</code></td>
-      <td>
-        <i>"തേരട്ടയുടെ കാൽ എണ്ണുക"</i> — A custom fine-tuned YOLOv8s computer vision model and pipeline built to segment and count centipede legs with scientific precision, automated certification, and custom dataset curation.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Alfievarghese/mufifa-2026">
-          <b>▸ μFIFA Tournament</b>
-        </a>
-      </td>
-      <td><code>Gamified Systems</code></td>
-      <td>
-        6-week multi-tier innovation tournament coordinating 4 specialized squad domains (Maker, Coder, Designer, Strategist) with live leaderboard aggregation and micro-token mechanics.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Alfievarghese">
-          <b>▸ Distributed Agents</b>
-        </a>
-      </td>
-      <td><code>Agentic Workflows</code></td>
-      <td>
-        Multi-agent pipeline implementations leveraging supervisor/orchestrator topologies, sub-agent context isolation, and deterministic tool-calling frameworks.
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-### `// 03. TECHNICAL ARSENAL`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>▸ MACHINE PERCEPTION &amp; AI</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn&theme=dark" alt="AI &amp; Vision" />
-      </p>
-      <code>Python · PyTorch · YOLOv8 · OpenCV · Scikit-Learn</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>▸ EMBEDDED &amp; LOW-LEVEL</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,arduino&theme=dark" alt="Embedded Systems" />
-      </p>
-      <code>C / C++ · Linux Architecture · ESP32 · Bash Telemetry</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>▸ FULLSTACK &amp; RUNTIMES</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind&theme=dark" alt="Fullstack" />
-      </p>
-      <code>TypeScript · Next.js · React · Node.js · TailwindCSS</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>▸ TOOLING &amp; INFRASTRUCTURE</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode&theme=dark" alt="Infrastructure" />
-      </p>
-      <code>Git · Docker Containers · GitHub Actions · Figma · Postman</code>
-    </td>
-  </tr>
-</table>
-
----
-
-### `// 04. TELEMETRY & REPOSITORY ACTIVITY`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alfievarghese&show_icons=true&theme=tokyonight&bg_color=090d16&title_color=34d399&text_color=94a3b8&icon_color=10b981&border_color=1e293b&border_radius=10&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfievarghese&background=090D16&border=1E293B&ring=10B981&fire=34D399&currStreakNum=F8FAFC&currStreakLabel=34D399&sideNums=F8FAFC&sideLabels=94A3B8&dates=64748B" width="49%" alt="Streak Stats" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfievarghese&layout=compact&theme=tokyonight&bg_color=090d16&title_color=34d399&text_color=94a3b8&border_color=1e293b&border_radius=10" width="49%" alt="Top Languages" />
+  <p align="center">
+    <img src="https://img.shields.io/badge/KERNEL-LINUX%207.2%20UPSTREAM-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Kernel" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/IEEE-PUBLISHED%20AUTHOR-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/GOOGLE-STUDENT%20AMBASSADOR-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" />
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=Alfievarghese&label=PROFILE%20VIEWS&color=10b981&style=for-the-badge" alt="Profile Views" />
+  </p>
 </div>
 
 <br/>
 
-#### `▸ CONTRIBUTION MOSAIC`
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Alfievarghese/Alfievarghese/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+  <p>
+    🚀 <i>Undergrad in <b>Artificial Intelligence &amp; Data Science</b> @ SJCET Palai (Expected 2028).</i><br/>
+    Bridging the gap between <b>low-level operating systems</b>, <b>edge computer vision</b>, and <b>physical telemetry</b>.
+  </p>
 </div>
 
 ---
 
-### `// 05. DIRECT CHANNELS`
+### ⚡ Highlights &amp; Breakthroughs
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐧 Upstream Linux Kernel Contributor</h3>
+      <p><b>Staging Subsystem (Greybus Vibrator &amp; UART) • Linux 7.2</b></p>
+      <ul>
+        <li>Authored &amp; upstreamed a Greybus vibrator driver accepted into Greg Kroah-Hartman's <code>staging-testing</code> tree.</li>
+        <li>Authored Greybus UART driver patch reviewed by core kernel maintainers.</li>
+        <li>Upstream workflow: <code>git send-email</code>, LKML &amp; greybus-dev patch cycles.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 IEEE Published Research (2025)</h3>
+      <p><b>Automated Habituation in <i>Mimosa pudica</i></b></p>
+      <ul>
+        <li>Main author of published IEEE conference paper on plant neurobiology automation.</li>
+        <li>Engineered closed-loop robotics with Raspberry Pi &amp; OpenCV to eliminate testing bias.</li>
+        <li>AHA algorithm achieved <b>96.5% accuracy</b> in computer vision validation.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚁 Real-Time Acoustic Drone Radar</h3>
+      <p><b>ESP32 • INMP441 MEMS • 512-Point FFT</b></p>
+      <ul>
+        <li>Real-time FFT audio spectrum analysis on 16kHz audio stream.</li>
+        <li>Detects rotor acoustic signatures in 100–600Hz band up to 30m.</li>
+        <li>Validated with quadcopters; submitted to CEDCO BSF Bengaluru.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥄 SteadySpoon (Assistive Tech)</h3>
+      <p><b>Arduino • MPU-6050 IMU • Servo Control</b></p>
+      <ul>
+        <li>Actively stabilized utensil for Parkinson's &amp; essential tremor patients.</li>
+        <li>Real-time countermovement stabilization algorithm running at &lt;100ms latency.</li>
+        <li><b>Top 7 finish</b> at Tech for Life Buildathon, SJCET.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔥 Koppile Sannam (Viral AI Roast)</h3>
+      <p><b>React • Node.js • Gemini AI • GitHub API</b></p>
+      <ul>
+        <li>Viral developer roast engine powered by a "Professor Pisharody" South Indian persona.</li>
+        <li>Engineered strict anti-hallucination prompt architectures.</li>
+        <li>Reached <b>55,000+ organic impressions</b> on LinkedIn within days.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎙️ JARVIS (Air-Gapped Ambient AI)</h3>
+      <p><b>Faster-Whisper • Mistral 7B (Ollama) • LLaVA</b></p>
+      <ul>
+        <li>100% offline desktop AI assistant with Tkinter glassmorphism HUD.</li>
+        <li>Zero cloud latency voice-to-action &amp; on-screen visual question answering.</li>
+        <li>Private, secure, and completely independent of internet connectivity.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Weapon of Choice
 
 <div align="center">
-  <a href="https://linkedin.com/in/alfie-varghese">
+  <p><b>Low-Level, Kernel &amp; Hardware</b></p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,arduino,raspberrypi&theme=dark" alt="Hardware Stack" />
+  <br/><br/>
+
+  <p><b>Machine Learning, Perception &amp; AI</b></p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,tensorflow,scikitlearn&theme=dark" alt="AI Stack" />
+  <br/><br/>
+
+  <p><b>Full-Stack, Runtimes &amp; Storage</b></p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,tailwind,supabase,prisma&theme=dark" alt="FullStack Stack" />
+  <br/><br/>
+
+  <p><b>Tooling, DevOps &amp; Prototyping</b></p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman&theme=dark" alt="Tooling Stack" />
+</div>
+
+<br/>
+
+---
+
+### 📊 Engineering Telemetry
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alfievarghese&show_icons=true&hide_rank=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=34d399&border_color=30363d&border_radius=10&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfievarghese&background=0D1117&border=30363D&stroke=30363D&ring=38BDF8&fire=F43F5E&currStreakNum=F8FAFC&currStreakLabel=38BDF8&sideNums=F8FAFC&sideLabels=94A3B8&dates=64748B" width="48%" alt="Streak Stats" />
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfievarghese&layout=compact&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&border_color=30363d&border_radius=10" width="48%" alt="Top Languages" />
+</div>
+
+<br/>
+
+---
+
+### 🐍 Contribution Activity Mosaic
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Alfievarghese/Alfievarghese/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="100%" />
+</div>
+
+<br/>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/alfie-varghese" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:alfievarghese22@gmail.com">
+  <a href="mailto:alfievarghese22@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/alfie.00.7">
+  <a href="https://instagram.com/alfie.00.7" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Alfievarghese">
+  <a href="https://github.com/Alfievarghese" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -177,5 +165,5 @@ status: Open for research collaborations and high-impact engineering
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Alfievarghese/Alfievarghese/main/assets/footer.svg" alt="Telemetry Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,15:161b22,40:0f172a,70:0284c7,100:10b981&height=120&section=footer" width="100%" />
 </div>
