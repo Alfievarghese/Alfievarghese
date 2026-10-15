@@ -1,40 +1,53 @@
 ﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:0f172a,100:0369a1&height=260&section=header&text=ALFIE%20VARGHESE&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" />
 
-  <a href="https://github.com/Alfievarghese">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=45&lines=Upstream+Linux+Kernel+Contributor+(Greybus+Subsystem);IEEE+Published+Researcher+(Plant+Neurobiology+%2B+Robotics);AI+%2B+Hardware+Hacker+(ESP32+FFT%2C+YOLOv8%2C+Local+LLMs);Google+Student+Ambassador+(Gemini)+%E2%80%A2+Vice+Chair+IEEE+RAS;Creator+of+Koppile+Sannam+(55K%2B+Organic+Impressions)" alt="Typing SVG" />
-  </a>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="36%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Alfievarghese/Alfievarghese/main/assets/cyber_cat_xray.gif" width="100%" alt="Cybernetic X-Ray Feline Telemetry" style="border-radius: 12px; border: 1.5px solid #00f5ff;" />
+    </td>
+    <td width="4%"></td>
+    <td width="60%" valign="middle" align="left">
+      <h1 align="left" style="margin: 0; font-size: 38px; color: #f8fafc; letter-spacing: -1px; font-weight: 800;">ALFIE VARGHESE</h1>
+      <p align="left" style="margin: 4px 0 14px 0; color: #38bdf8; font-family: monospace; font-size: 15px; font-weight: 600; letter-spacing: 0.05em;">
+        ▸ CREATIVE TECHNOLOGIST &amp; SYSTEMS ARCHITECT
+      </p>
+      <p align="left" style="color: #cbd5e1; font-size: 14px; line-height: 1.6; margin: 0 0 16px 0;">
+        Undergrad in <b>AI &amp; Data Science</b> @ SJCET Palai (Expected 2028).<br/>
+        Building at the threshold where <b>low-level kernel drivers</b>, <b>edge computer vision</b>, and <b>biometric sensory telemetry</b> operate on real-world entropy.
+      </p>
+      <p align="left" style="margin: 0 0 16px 0;">
+        <a href="https://github.com/Alfievarghese" target="_blank">
+          <img src="https://img.shields.io/badge/LINUX%20KERNEL-7.2%20UPSTREAM-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Kernel" />
+        </a>
+        &nbsp;
+        <a href="https://ieeexplore.ieee.org/document/11394635" target="_blank">
+          <img src="https://img.shields.io/badge/IEEE-PUBLISHED%20AUTHOR-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE" />
+        </a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/GOOGLE-GEMINI%20AMBASSADOR-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" />
+      </p>
+      <p align="left" style="margin: 0; font-family: monospace; font-size: 12px; color: #34d399; line-height: 1.6;">
+        <span style="color: #10b981;">●</span> SYSTEM STATUS: ACTIVE // EXPERIMENTAL LAB<br/>
+        <span style="color: #64748b;">📍 COORDINATES: 9.98° N, 76.30° E · KERALA, IN [UTC +5:30]</span>
+      </p>
+    </td>
+  </tr>
+</table>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/KERNEL-LINUX%207.2%20UPSTREAM-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Kernel" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/IEEE-PUBLISHED%20AUTHOR-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/GOOGLE-STUDENT%20AMBASSADOR-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" />
-    &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=Alfievarghese&label=PROFILE%20VIEWS&color=10b981&style=for-the-badge" alt="Profile Views" />
-  </p>
 </div>
 
 <br/>
 
-<div align="center">
-  <p>
-    🚀 <i>Undergrad in <b>Artificial Intelligence &amp; Data Science</b> @ SJCET Palai (Expected 2028).</i><br/>
-    Bridging <b>low-level kernel subsystems</b>, <b>edge computer vision</b>, and <b>autonomous robotics telemetry</b>.
-  </p>
-</div>
-
 ---
 
-### ⚡ Highlights &amp; Breakthroughs
+### `// 01. HIGHLIGHTS & BREAKTHROUGHS`
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Alfievarghese">🐧 Upstream Linux Kernel Contributor</a></h4>
       <p><b>Greybus Vibrator &amp; UART Subsystems (Linux 7.2)</b></p>
-      <p>Authored &amp; upstreamed a Greybus vibrator driver patch accepted into Greg Kroah-Hartman's <code>staging-testing</code> branch, plus Greybus UART driver reviewed by kernel maintainers. Active via LKML &amp; <code>git send-email</code>.</p>
+      <p>Authored &amp; upstreamed a Greybus vibrator driver patch accepted into Greg Kroah-Hartman's <code>staging-testing</code> branch, plus a Greybus UART driver reviewed by kernel maintainers. Active upstream workflow via LKML &amp; <code>git send-email</code>.</p>
       <p>
         <img src="https://img.shields.io/badge/C-Kernel%20Driver-blue?style=flat-square&logo=c" />
         <img src="https://img.shields.io/badge/Linux-Staging-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -94,7 +107,7 @@
 
 ---
 
-### 🛠️ Weapon of Choice
+### `// 02. WEAPON OF CHOICE`
 
 <div align="center">
   <p><b>Low-Level, Kernel &amp; Hardware</b></p>
@@ -117,22 +130,17 @@
 
 ---
 
-### 📊 Engineering Telemetry
+### `// 03. ENGINEERING TELEMETRY`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alfievarghese&show_icons=true&hide_rank=true&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=34d399&border_color=30363d&border_radius=10" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfievarghese&background=0D1117&border=30363D&stroke=30363D&ring=38BDF8&fire=F43F5E&currStreakNum=F8FAFC&currStreakLabel=38BDF8&sideNums=F8FAFC&sideLabels=94A3B8&dates=64748B" width="48%" alt="Streak Stats" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfievarghese&theme=tokyonight&background=0D1117&border=30363D&stroke=30363D&ring=38BDF8&fire=F43F5E&currStreakNum=F8FAFC&currStreakLabel=38BDF8&sideNums=F8FAFC&sideLabels=94A3B8&dates=64748B" width="48%" alt="Streak Stats" />
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfievarghese&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&border_color=30363d&border_radius=10" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
 
----
-
-### 🐍 Contribution Activity Mosaic
+#### `▸ CONTRIBUTION ACTIVITY`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Alfievarghese/Alfievarghese/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="100%" />
@@ -142,7 +150,7 @@
 
 ---
 
-### 🤝 Let's Connect
+### `// 04. DIRECT CHANNELS`
 
 <div align="center">
   <a href="https://linkedin.com/in/alfie-varghese" target="_blank">
@@ -165,5 +173,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:0f172a,100:0369a1&height=120&section=footer" width="100%" />
+  <img src="https://raw.githubusercontent.com/Alfievarghese/Alfievarghese/main/assets/footer.svg" alt="Telemetry Footer" width="100%" />
 </div>
